@@ -1,4 +1,9 @@
 #!/bin/bash
+# Author: Fabrício Pinto Ferreira
+
+# This is a simple script that aims install generic and common tools
+# for game development in Ubuntu 20.04
+
 sudo apt update
 
 echo 'Installing Snap...' 
