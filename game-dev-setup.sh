@@ -35,7 +35,7 @@ sudo snap install code
 echo 'Installing Blender...' 
 sudo snap install blender
 
-echo 'Installing VSCode...' 
+echo 'Installing GIMP...' 
 sudo snap install gimp
 
 echo 'Installing Inkscape...'
